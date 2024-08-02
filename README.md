@@ -27,11 +27,11 @@ Para jugar el juego en tu máquina local, sigue estos pasos:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/Edwseth/descubre-el-numero-secreto.git
+   git clone https://github.com/Edwseth/edwseth.github.io
    ```
 2. Navega al directorio del proyecto:
    ```bash
-   cd descubre-el-numero-secreto
+   edwseth.github.io
    ```
 3. Abre el archivo `index.html` en tu navegador web.
 
